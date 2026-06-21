@@ -1,6 +1,5 @@
-knowledge.md
-plan.md
 models/
 output/
 __pycache__/
 *.pyc
+.DS_Store
