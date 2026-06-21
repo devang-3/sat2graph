@@ -1,0 +1,11 @@
+tensorflow>=2.12
+onnx>=1.16
+onnxruntime>=1.16
+onnxconverter-common>=1.14
+onnx-ir>=0.1.4
+scikit-learn>=1.2
+pillow>=9.0
+matplotlib>=3.7
+opencv-python>=4.8
+numpy>=1.23
+requests>=2.28
